@@ -1,0 +1,4 @@
+{
+    admin_logo: <a href="https://www.flaticon.com/free-icons/admin" title="admin icons">Admin icons created by Freepik - Flaticon</a>,
+    
+}
